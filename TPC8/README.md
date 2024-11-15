@@ -2,11 +2,11 @@
 ### Autor: Maria Pinheiro 
 
 O TPC 8 consiste numa prova de aferição dos conteúdos lecionados na UC de algoritmos e técnicas de programação. Este TPC foi dividido em 3 partes, que estão resolvidas em 3 ficheiros distintos:
-* parte1.py - [Parte 1 do TPC](#tpc1);
-* parte2.py - [Parte 2 do TPC](#tpc2);
-* parte3.py - [Parte 3 do TPC](#tpc3);
+* parte1.py - [Parte 1 do TPC](#tpc-1);
+* parte2.py - [Parte 2 do TPC](#tpc-2);
+* parte3.py - [Parte 3 do TPC](#tpc-3---rede-social);
 
-## TPC1
+## TPC 1
 A resolução deste sub tpc encontra-se no ficheiro *parte1.py*. Cada função equivale a uma alínea do exercício proposto:
 * `naoComum (lista1, lista2)` - recebe 2 listas e devolve uma nova lista com os elementos que não são comuns às duas listas;
 * `palsLongas (texto)` - recebe uma string e devolve uma lista com as palavras da mesma compostas por mais de 3 letras;
