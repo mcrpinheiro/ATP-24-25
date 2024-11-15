@@ -2,9 +2,9 @@
 ### Autor: Maria Pinheiro 
 
 O TPC 8 consiste numa prova de aferição dos conteúdos lecionados na UC de algoritmos e técnicas de programação. Este TPC foi dividido em 3 partes, que estão resolvidas em 3 ficheiros distintos:
-* parte1.py - Parte 1 do TPC;
-* parte2.py - Parte 2 do TPC;
-* parte3.py - Parte 3 do TPC;
+* parte1.py - [Parte 1 do TPC](#tpc1);
+* parte2.py - [Parte 2 do TPC](#tpc2);
+* parte3.py - [Parte 3 do TPC](#tpc3);
 
 ## TPC1
 A resolução deste sub tpc encontra-se no ficheiro *parte1.py*. Cada função equivale a uma alínea do exercício proposto:
