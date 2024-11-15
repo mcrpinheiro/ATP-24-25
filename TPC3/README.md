@@ -1,5 +1,5 @@
 # TPC 3: Jogo dos 21 Fósforos
-## Autor: Maria Pinheiro
+### Autor: Maria Pinheiro
 
 O TPC 3 consiste na realização de uma aplicação para jogar o jogo dos 21 fósforos. Este foi dividido em 2 ficheiros:
 * *menu.py* - onde se encontra a aplicação principal;
