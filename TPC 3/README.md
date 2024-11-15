@@ -13,8 +13,8 @@ O TPC 3 consiste na realização de uma aplicação para jogar o jogo dos 21 fó
 
 ### A aplicação do jogo
 Nesta aplicação, o utilizador pode escolher entre jogar primeiro, ou o computador jogar primeiro. Considerando isto, o menu questiona ao utilizador quem vai jogar primeiro e consoante a escolha, corre a função destinada.
-* 1. Utilizador - o utilizador joga primeiro. Neste modo, o computador deve sempre ganhar.
-* 2. Computador - o computador joga primeiro. Neste modo, o computador deve ganhar se o utilizador fizer um erro de cálculo.
+* (1) Utilizador - o utilizador joga primeiro. Neste modo, o computador deve sempre ganhar.
+* (2) Computador - o computador joga primeiro. Neste modo, o computador deve ganhar se o utilizador fizer um erro de cálculo.
 
 ### Funções do jogo
 Considerando que existem 2 tipos de modos de jogo, criei 2 funções principais, uma para cada modo, no ficheiro *tpc3.py*.
