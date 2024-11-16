@@ -9,8 +9,8 @@ Além disto, ainda existem 5 ficheiros auxiliares:
 * `metereologia.txt` - ficheiro onde tem uma tabela metereológica guardada;
 * `graficotempMax.png` - ficheiro resultante da criação de um gráfico das temperaturas máximas da tabela metereológica em `metereologia.txt`;
 * `graficotempMin.png` - ficheiro resultante da criação de um gráfico das temperaturas mínimas da tabela metereológica em `metereologia.txt`;
-`graficochuva.png` - ficheiro resultante da criação de um gráfico das pluviosidade da tabela metereológica em `metereologia.txt`;
-`graficosjuntos.png` - combinação de todos os gráficos acima mencionados num só.
+* `graficochuva.png` - ficheiro resultante da criação de um gráfico das pluviosidade da tabela metereológica em `metereologia.txt`;
+* `graficosjuntos.png` - combinação de todos os gráficos acima mencionados num só.
 
 ### Funções da Aplicação
 Para a realização deste exercício, consideramos que uma tabela metereológica é uma lista de tuplos. Cada tuplo é respetivo a uma data (cuja é o primeito elemento do tuplo e um tuplo de 3 inteiros). Cada tuplo tem mais 3 elementos, floats, que correspondem à temperatura mínima, à temperatura máxima e à precipitação na data respetiva.
