@@ -5,7 +5,7 @@ O TPC 7 consiste na realização de uma aplicação para analisar uma tabela met
 * *menu.py* - onde se encontra a aplicação principal;
 * *tpc7.py*  - onde estão as funções para correr o jogo.
 
-Além disto, ainda temos mais 5 ficheiros extra:
+Além disto, ainda existem 5 ficheiros auxiliares:
 * `metereologia.txt` - ficheiro onde tem uma tabela metereológica guardada;
 * `graficotempMax.png` - ficheiro resultante da criação de um gráfico das temperaturas máximas da tabela metereológica em `metereologia.txt`;
 * `graficotempMin.png` - ficheiro resultante da criação de um gráfico das temperaturas mínimas da tabela metereológica em `metereologia.txt`;
