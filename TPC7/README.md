@@ -29,8 +29,8 @@ Considerando isto, cada opção do menu tem a sua função respetiva (em *tpc7.p
 * (7) Calcular o maior número de dias consecutivos com precipitação inferior a determinado valor: `maxPeriodoCalor(tabMeteo, p)` - recebe uma tabela metereológica e um valor de precipitação `p` e devolve um inteiro que corresponde ao maior número de dias consecutivos com precipitação superior a `p`
 * (8) Guardar uma tabela meteorológica num ficheiro:  `guardaTabMeteo(t, fnome)` - recebe uma tabela metereológica e um nome de um ficheiro, e guarda a tabela metereológica no mesmo com formato igual a `meterologia.txt`.
 * (9) Criar um gráfico com a tabela meteorológica: `grafTabMeteo(tabMeteo, tipo)` - recebe uma tabela meterológica e uma variável `tipo` do tipo string e devolve um gráfico. A variável tipo é inserida pelo utilizador, e consuante esta, o gráfico final vai varir:
-    * (A) Gráfico das temperaturas mínimas - cria um gráfico com todas as temperaturas mínimas da tabela meterológica (*graficotempMin.png*);
-    * (B) Gráfico das temperaturas máximas - cria um gráfico com todas as temperaturas máximas da tabela meterológica (*graficotempMax.png*);
-    * (C) Gráfico da pluvisioidade - cria um gráfico com todos os valores de precipitação da tabela meterológica (*graficopluvisoidade.png*);
-    * (D) Gráfico de todas as variáveis juntas - cria um gráfico com os 3 gráficos acima (*graficosjuntos.png*).
+    * (A) [Gráfico das temperaturas mínimas](./graficochuva.png) - cria um gráfico com todas as temperaturas mínimas da tabela meterológica;
+    * (B) [Gráfico das temperaturas máximas](./graficotempMax.png) - cria um gráfico com todas as temperaturas máximas da tabela meterológica;
+    * (C) [Gráfico da pluvisioidade](./graficochuva.png) - cria um gráfico com todos os valores de precipitação da tabela meterológica ;
+    * (D) [Gráfico de todas as variáveis juntas](./graficosjuntos.png) - cria um gráfico com os 3 gráficos acima.
 
