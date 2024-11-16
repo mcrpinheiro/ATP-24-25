@@ -16,8 +16,7 @@ Além disto, ainda existem 5 ficheiros auxiliares:
 Para a realização deste exercício, consideramos que uma tabela metereológica é uma lista de tuplos. Cada tuplo é respetivo a uma data (cuja é o primeito elemento do tuplo e um tuplo de 3 inteiros). Cada tuplo tem mais 3 elementos, floats, que correspondem à temperatura mínima, à temperatura máxima e à precipitação na data respetiva.
 
 Nesta aplicação (em *menu.py*), é possível escolher entre várias opções para analisar uma tabela meterológica. Caso ainda não exista, o utilizador deve carregar um ficheiro de uma tabela metereológica, cujo formato deve ser, por linha:
-`ano::mês::dia::temperatura minima::temperatura maxima::precipitação`
-Como podemos ver no ficheiro *metereologia.txt*.
+`ano::mês::dia::temperatura minima::temperatura maxima::precipitação` como podemos ver no ficheiro *metereologia.txt*.
 
 Considerando isto, cada opção do menu tem a sua função respetiva (em *tpc7.py*), que irá realizar a operação desejada.
 * (1) Carregar uma tabela meteorológica de um ficheiro: `carregaTabMeteo(fnome)` - recebe um ficheiro `txt` com uma tabela metereológica e carrega a mesma para código;
