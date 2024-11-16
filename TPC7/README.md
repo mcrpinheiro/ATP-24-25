@@ -1,9 +1,9 @@
-# TPC 5: Aplicação para Gerir um Cinema
+# TPC 7: Aplicação para Analisar uma Tabela Metereológica
 ### Autor: Maria Pinheiro
 
 O TPC 7 consiste na realização de uma aplicação para analisar uma tabela metereológica. Este foi dividido em 2 ficheiros:
 * *menu.py* - onde se encontra a aplicação principal;
-* *tpc7.py*  - onde estão as funções para correr o jogo.
+* *tpc7.py*  - onde estão as funções para correr a aplicação.
 
 Além disto, ainda existem 5 ficheiros auxiliares:
 * `metereologia.txt` - ficheiro onde tem uma tabela metereológica guardada;

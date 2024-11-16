@@ -1,9 +1,9 @@
 # TPC 5: Aplicação para Gerir um Cinema
 ### Autor: Maria Pinheiro
 
-O TPC 5 consiste na realização de uma aplicação para gerir um conjutno de salas de cinema de um centro comercial. Este foi dividido em 2 ficheiros:
+O TPC 5 consiste na realização de uma aplicação para gerir um conjunto de salas de cinema de um centro comercial. Este foi dividido em 2 ficheiros:
 * *menu.py* - onde se encontra a aplicação principal;
-* *tpc5.py*  - onde estão as funções para correr o jogo.
+* *tpc5.py*  - onde estão as funções para correr a aplicação.
 
 
 ### Funções da Aplicação
