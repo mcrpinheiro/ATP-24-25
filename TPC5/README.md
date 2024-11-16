@@ -14,11 +14,11 @@ Considerando isto, cada opção do menu tem a sua função respetiva (em *tpc5.p
 * (1) Criar um cinema: `criarCinema()`- a função cria um cinema aleatório, com algumas limitações, isto é, o número de salas é limitado entre 1 e 10, o número de lugares entre 10 e 50, e o filme é escolhido através de uma lista com filmes aleatórios;
 * (2) Inserir cinema: na opção inserir cinema, o utilizador escolhe um número de salas e para cada uma das salas escolhe o número de lugares total e o filme exibido na mesma;
 * (3) Listar filmes: `listar(cinema)` - a função recebe um cinema e lista todos os filmes exibidos no mesmo no momento;
-* (4) Confirmar disponibilidade de lugar: `disponivel(cinema, filme, lugar)` - a função recebe um cinema, um filme, e um lugar e confirma se esse lugar está disponível para esse filme, devolvendo True no caso do lugar estar disponível, e False no caso contrário.
-* (5) Vender um bilhete: `vendebilhete(cinema, filme, lugar)` - a função recebe um cinema, um filme, e um lugar, e adiciona o lugar escolhido à lista de lugares vendidos na sala onde o filme está a ser exibido, devolvendo o cinema com esta lista atualizada.
-* (6) Listar disponibilidade: `listardisponibilidades(cinema)` - a função recebe um cinema e lista quantos lugares estão disponíveis em cada sala do mesmo.
-* (7) Inserir uma nova sala: `inserirSala(cinema, sala)` - a função recebe um cinema e uma sala, e adiciona a sala especificada ao cinema, devolvendo o cinema atualizado.
-* (8) Ver o cinema: `vercinema(cinema)` - a função recebe um cinema, e devolve uma string constituida por todas as informações de cada sala
+* (4) Confirmar disponibilidade de lugar: `disponivel(cinema, filme, lugar)` - a função recebe um cinema, um filme, e um lugar e confirma se esse lugar está disponível para esse filme, devolvendo True no caso do lugar estar disponível, e False no caso contrário;
+* (5) Vender um bilhete: `vendebilhete(cinema, filme, lugar)` - a função recebe um cinema, um filme, e um lugar, e adiciona o lugar escolhido à lista de lugares vendidos na sala onde o filme está a ser exibido, devolvendo o cinema com esta lista atualizada;
+* (6) Listar disponibilidade: `listardisponibilidades(cinema)` - a função recebe um cinema e lista quantos lugares estão disponíveis em cada sala do mesmo;
+* (7) Inserir uma nova sala: `inserirSala(cinema, sala)` - a função recebe um cinema e uma sala, e adiciona a sala especificada ao cinema, devolvendo o cinema atualizado;
+* (8) Ver o cinema: `vercinema(cinema)` - a função recebe um cinema, e devolve uma string constituida por todas as informações de cada sala.
 
 
 
