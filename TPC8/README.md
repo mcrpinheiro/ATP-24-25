@@ -20,7 +20,8 @@ A resolução deste sub tpc encontra-se no ficheiro *parte2.py*. Cada função e
 * `myIndexOf(s1, s2)` - recebe duas strings e devolve a primeira ocorrência de s2 em s1, ou devolve `-1` no caso de s2 não existir em s1.
 
 ## TPC 3 - Rede Social
-A resolução deste sub tpc encontra-se no ficheiro *parte3.py*. Para a resolução destes exercícios, consideramos que a informaçao da rede social está armazenada numa lista de dicionários, sendo cada dicionário, um post, com as chaves: `id`, `conteudo`, `autor`, `dataCriacao` e `comentarios`. Por sua vez, `comentarios` é uma lista de dicionários com chaves `comentario` e `autor`.
+A resolução deste sub tpc encontra-se no ficheiro *parte3.py*. 
+Para a resolução destes exercícios, consideramos que a informaçao da rede social está armazenada numa lista de dicionários, sendo cada dicionário, um post, com as chaves: `id`, `conteudo`, `autor`, `dataCriacao` e `comentarios`. Por sua vez, `comentarios` é uma lista de dicionários com chaves `comentario` e `autor`.
 Cada função equivale a uma alínea do exercício proposto:
 * `quantosPost(redeSocial)` - recebe uma rede social, e devolve a quantidade de posts existentes na mesma;
 * `postsAutor(redeSocial, autor)` - recebe uma rede social e um autor (string) e devolve a quantidade de posts feito por tal autor;
